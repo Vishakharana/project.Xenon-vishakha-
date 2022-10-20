@@ -14,3 +14,5 @@ A website gives you a controlled way to portray an image of your business as you
 #### Contact information
 #### Online Ordering
 #### Catering Delivery Service
+## Some screenshots from the project:-
+![happy](https://user-images.githubusercontent.com/102427698/196842854-6017a8e5-7a39-4b1b-ac3b-1126c24f55a6.PNG)
